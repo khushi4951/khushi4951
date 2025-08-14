@@ -1,7 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Khushi</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Banner" width="80%">
 ---
-
 ### 🌟 About Me
 - 🔭 I’m currently working on **[Your Project Name or Goal]**
 - 🌱 I’m currently learning **[Tech/Skill]**
