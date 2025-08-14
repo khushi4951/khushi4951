@@ -23,10 +23,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi4951e&show_icons=true&theme=radical" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YourUsername&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=khushi4951&theme=radical" alt="streak" />
 </p>
 
 ---
