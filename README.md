@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!, I'm Khushi</h1>
+<h1 align="center">Hey there! I'm Khushi (●'◡'●)</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Banner" width="80%">
 </p>
@@ -9,8 +9,8 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on Traverly
-- 🌱 I’m currently learning Java 
-- ✨ I like RPGs (●'◡'●)
+- 🌱 I’m learning Java 
+- ✨ I like RPGs ᓚᘏᗢ
 
 ---
 
