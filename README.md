@@ -9,14 +9,14 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on Traverly
-- 🌱 I’m learning Java 
+- 🌱 I’m currently learning Java & DSA
 - ✨ I like RPGs ᓚᘏᗢ
 
 ---
 
-### 💻 Tech Stack
+### 💻 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,sublime" />
+  <img src="https://skillicons.dev/icons?i=,python,js,java,c,cpp,sublime" />
 </p>
 
 ---
@@ -30,14 +30,3 @@
 </p>
 
 ---
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/YourProfile" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
-</a>
-<a href="mailto:youremail@example.com" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="email" />
-</a>
-</p>
-
