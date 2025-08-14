@@ -9,8 +9,8 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on Traverly
-- 🌱 I’m currently learning Java & LibGDX
-- ⚡ Fun fact: 
+- 🌱 I’m currently learning Java 
+- ✨ I like RPGs (●'◡'●)
 
 ---
 
