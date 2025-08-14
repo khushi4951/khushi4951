@@ -1,9 +1,5 @@
 <h1 align="center">Hey there 👋, I'm [Your Name]</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="YourUsername" /> 
-</p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Banner" width="100%">
 ---
 
 ### 🌟 About Me
