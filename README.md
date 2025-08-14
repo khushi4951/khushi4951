@@ -22,10 +22,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushi4951&theme=gruvbox" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khushi4951&theme=radical" alt="stats" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khushi4951&theme=gruvbox" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=khushi4951&theme=radical" alt="streak" />
 </p>
 
 ---
