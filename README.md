@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there, I'm [Your Name]! 👋
 
-<!--
-**khushi4951/khushi4951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+[Add a brief description about yourself - your role, interests, or what you're passionate about]
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** [List your programming languages]
+- **Frontend:** [Your frontend technologies]
+- **Backend:** [Your backend technologies]
+- **Database:** [Your database technologies]
+- **Tools & Others:** [Additional tools, frameworks, or technologies]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+## 📫 Let's Connect
+- **LinkedIn:** [Your LinkedIn URL]
+- **Twitter:** [Your Twitter URL]
+- **Email:** [Your email]
+- **Portfolio:** [Your portfolio website if you have one]
+
+---
+⭐️ From [yourusername](https://github.com/yourusername)
