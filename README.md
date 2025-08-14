@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Khushi</h1>
+<h1 align="center">Hey there!, I'm Khushi</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="Banner" width="80%">
 </p>
@@ -6,19 +6,16 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Banner" width="80%">
 </p>
 ---
-
 ### 🌟 About Me
-- 🔭 I’m currently working on **[Your Project Name or Goal]**
-- 🌱 I’m currently learning **[Tech/Skill]**
-- 💬 Ask me about **[Topics you know well]**
-- 📫 How to reach me: **[Email/LinkedIn/etc.]**
-- ⚡ Fun fact: *[Your Fun Fact]*
+- 🔭 I’m currently working on Traverly
+- 🌱 I’m currently learning Java & LibGDX
+- ⚡ Fun fact: 
 
 ---
 
 ### 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,sublime" />
 </p>
 
 ---
