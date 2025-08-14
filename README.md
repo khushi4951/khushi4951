@@ -16,7 +16,7 @@
 
 ### 💻 Languages and Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=,python,js,java,c,cpp,sublime" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,sublime" />
 </p>
 
 ---
