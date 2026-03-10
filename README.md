@@ -7,7 +7,7 @@
 </p>
 
 ### 🌟 About Me
-- 🔭 I’m currently working on Traverly
+- 🔭 I’m currently working on Sprinto
 - 🌱 I’m currently learning Java & DSA
 - ✨ I like RPGs ᓚᘏᗢ
 
